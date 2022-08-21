@@ -4,7 +4,7 @@ Programmer & Tutorial-maker on YouTube
 #### 🗣️ What I speak & where I live
 I live in the Netherlands and I speak Dutch and English fluently.
 #### 💻 Programming
-I mainly program Minecraft plugins using Java but sometimes I like to make a game in Unity using C#.
+I mainly program Minecraft plugins and Discord bots using Java but sometimes I like to make a game in Unity using C#.
 #### 🤖 Future
 I really enjoy playing and making games, so in the future I definitely want to learn more about game development, but for now I stick with making Minecraft plugins and making tutorials about that.
 #### ▶️ YouTube
