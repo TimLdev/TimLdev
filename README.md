@@ -10,7 +10,7 @@ I really enjoy playing and making games, so in the future I definitely want to l
 #### ▶️ YouTube
 Like I said I make tutorials on YouTube. The tutorials are in Dutch but in the future I really want to create a English channel where I can help more people. The tutorials are about how to program Minecraft plugins using Java.
 #### 💬 Socials & Contact
-[Discord - £Tim#0221](https://discordapp.com/users/434699043613179905)
+[Discord - TIM#0221](https://discordapp.com/users/434699043613179905)
 
 [YouTube - @Zwess](https://www.youtube.com/channel/UCiL98vMbGydUPftgxLF_GvA)
 
