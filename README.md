@@ -1,5 +1,5 @@
 <h1>Hello, I'm Tim</h1>
-<h3>15 Year Old, Developer from The Netherlands</h3>
+<h3>16 Year Old, Developer from The Netherlands</h3>
 
 - 🛠️ I like to make Minecraft Plugins and Discord Bots
 - 🌱 I'm currently learning **JavaScript**
