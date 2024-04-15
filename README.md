@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **Web Development**
 - 👨‍💻 All of my public projects are available [here](https://github.com/TimLdev?tab=repositories)
 - 📷 Feel free to check out my [YouTube channel](https://www.youtube.com/@zwess) (Dutch Spigot Tutorials)
-- 📫 Reach me at Discord: **tim_dev**
+- 📫 Reach me at Discord: **tim_l2**
 
 **Languages & Tools**:
 
