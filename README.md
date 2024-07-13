@@ -1,6 +1,6 @@
 <h1>Tim</h1>
 
-- 📫 Discord: **tim_l2**
+📫 Discord: **tim_l2**
 
 **Languages & Tools**:
 
