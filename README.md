@@ -1,11 +1,6 @@
-<h1>Hello, I'm Tim</h1>
-<h3>16 Year Old, Developer from The Netherlands</h3>
+<h1>Tim</h1>
 
-- 🛠️ I like to make Minecraft Plugins and Discord Bots
-- 🌱 I'm currently learning **Web Development**
-- 👨‍💻 All of my public projects are available [here](https://github.com/TimLdev?tab=repositories)
-- 📷 Feel free to check out my [YouTube channel](https://www.youtube.com/@zwess) (Dutch Spigot Tutorials)
-- 📫 Reach me at Discord: **tim_l2**
+- 📫 Discord: **tim_l2**
 
 **Languages & Tools**:
 
